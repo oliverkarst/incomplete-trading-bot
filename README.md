@@ -1,6 +1,6 @@
 # incomplete-trading-bot
  
- Requires Python 3.8.1!
+ Requires Python 3.8.1
  
  More at www.theincompleteguide.com
 
