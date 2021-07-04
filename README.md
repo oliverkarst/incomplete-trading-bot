@@ -1,4 +1,7 @@
 # incomplete-trading-bot
+ 
+ Requires Python 3.8.1!
+ 
  More at www.theincompleteguide.com
 
  This code is free, THANK YOU!
