@@ -1,0 +1,7 @@
+Tulipy
+Requests
+pandas
+deprecated
+websockets
+scipy
+bs4
